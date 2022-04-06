@@ -1,0 +1,14 @@
+# Project description file
+
+project.name=Test
+project.version=8.4
+project.original.version=6.6
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=7.0.2
+project.id=4522c2a3-c494-4ce0-8b09-9a8f6c837551
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+project.is-open-test-settings-after-upload=true
+team.server.project=/pedroball/NeoLoad
