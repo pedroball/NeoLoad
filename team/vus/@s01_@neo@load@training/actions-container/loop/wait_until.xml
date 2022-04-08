@@ -1,0 +1,7 @@
+<wait-until-action name="wait_until"
+    uid="09be0ace-b9e8-409d-bfc5-34e737549ee7" wait-timeout="60000">
+    <conditions match-type="1">
+        <condition operand1="${NL-ControllerIp}"
+            operand2="${NL-ControllerIp}" operator="EQUALS"/>
+    </conditions>
+</wait-until-action>

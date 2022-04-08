@@ -5,17 +5,23 @@
     <lg-networkiface description="en0" enabled="false"
         isLoopBack="false" name="en0">
         <!--****** LG ADDRESSES ******-->
-        <lg-address enabled="false" hostname="192.168.1.68">
-            <ip value="192.168.1.68"/>
+        <lg-address enabled="false" hostname="192.168.1.130">
+            <ip value="192.168.1.130"/>
         </lg-address>
-        <lg-address enabled="false" hostname="2806:108e:24:3e89:10b4:9b45:fb6:a9b1%en0">
-            <ip value="2806:108e:24:3e89:10b4:9b45:fb6:a9b1%en0"/>
+        <lg-address enabled="false" hostname="2806:108e:18:641e:0:0:0:1%en0">
+            <ip value="2806:108e:18:641e:0:0:0:1%en0"/>
         </lg-address>
-        <lg-address enabled="false" hostname="2806:108e:24:3e89:9537:a881:e1ca:dadc%en0">
-            <ip value="2806:108e:24:3e89:9537:a881:e1ca:dadc%en0"/>
+        <lg-address enabled="false" hostname="2806:108e:18:641e:34fa:3112:cf77:a9a7%en0">
+            <ip value="2806:108e:18:641e:34fa:3112:cf77:a9a7%en0"/>
         </lg-address>
-        <lg-address enabled="false" hostname="fe80:0:0:0:1cb5:7550:979b:ff07%en0">
-            <ip value="fe80:0:0:0:1cb5:7550:979b:ff07%en0"/>
+        <lg-address enabled="false" hostname="2806:108e:18:641e:889:65fd:7e94:40a8%en0">
+            <ip value="2806:108e:18:641e:889:65fd:7e94:40a8%en0"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="fdd4:f9a1:a75b:b00:107f:e1ef:4ee2:6c13%en0">
+            <ip value="fdd4:f9a1:a75b:b00:107f:e1ef:4ee2:6c13%en0"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="fe80:0:0:0:1059:3e20:f27f:93c8%en0">
+            <ip value="fe80:0:0:0:1059:3e20:f27f:93c8%en0"/>
         </lg-address>
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
@@ -32,11 +38,11 @@
         </lg-address>
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
-    <lg-networkiface description="en5" enabled="false"
-        isLoopBack="false" name="en5">
+    <lg-networkiface description="en7" enabled="false"
+        isLoopBack="false" name="en7">
         <!--****** LG ADDRESSES ******-->
-        <lg-address enabled="false" hostname="fe80:0:0:0:aede:48ff:fe00:1122%en5">
-            <ip value="fe80:0:0:0:aede:48ff:fe00:1122%en5"/>
+        <lg-address enabled="false" hostname="fe80:0:0:0:aede:48ff:fe00:1122%en7">
+            <ip value="fe80:0:0:0:aede:48ff:fe00:1122%en7"/>
         </lg-address>
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
